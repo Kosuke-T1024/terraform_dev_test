@@ -1,7 +1,2 @@
-# terraform
-**/.terraform/*
-*.tfstate
-*.tfstate.*
-crash.tf
-provider.tf
-.terraform/
+.*
+!.gitignore
