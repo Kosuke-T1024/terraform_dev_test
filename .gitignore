@@ -4,3 +4,4 @@
 *.tfstate.*
 crash.tf
 provider.tf
+.terraform/
